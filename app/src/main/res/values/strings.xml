@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SAMF</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_location">Location</string>
+    <string name="profile_save">Save</string>
+    <string name="profile_error_nameEmpty">You must enter a name!</string>
+    <string name="profile_error_locationEmpty">You must enter a location</string>
+    <string name="profile_success_saved">Saved!</string>
+    <string name="home_text_greeting">Hello, $1!</string>
+    <string name="home_button_editProfile">Edit Profile</string>
+    <string name="home_text_greeting_nameUnknown">Unknown</string>
+    <string name="mainactivity_test">TEST</string>
+    <string name="profile_error_alreadyInProfile">You\'re already in the profile screen!</string>
+</resources>
